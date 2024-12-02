@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><fontList>
+    <font>
+        <object>Title</object>
+        <name>SansSerif</name>
+        <format>Bold</format>
+        <size>24</size>
+    </font>
+    <font>
+        <object>Label</object>
+        <name>SansSerif</name>
+        <format>Bold</format>
+        <size>18</size>
+    </font>
+    <font>
+        <object>Text</object>
+        <name>SansSerif</name>
+        <format>Plain</format>
+        <size>16</size>
+    </font>
+    <font>
+        <object>Button</object>
+        <name>SansSerif</name>
+        <format>Plain</format>
+        <size>16</size>
+    </font>
+    <font>
+        <object>Menu</object>
+        <name>SansSerif</name>
+        <format>Bold</format>
+        <size>18</size>
+    </font>
+    <font>
+        <object>Menu Item</object>
+        <name>SansSerif</name>
+        <format>Plain</format>
+        <size>16</size>
+    </font>
+    <font>
+        <object>Table</object>
+        <name>SansSerif</name>
+        <format>Plain</format>
+        <size>16</size>
+    </font>
+    <font>
+        <object>Table Header</object>
+        <name>SansSerif</name>
+        <format>Bold</format>
+        <size>18</size>
+    </font>
+</fontList>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><colorList>
+    <color>
+        <object>Background</object>
+        <shade>-1118482</shade>
+    </color>
+    <color>
+        <object>Title</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Label</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Text</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Text Background</object>
+        <shade>-1</shade>
+    </color>
+    <color>
+        <object>Button</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Button Background</object>
+        <shade>-3482644</shade>
+    </color>
+    <color>
+        <object>Menu</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Menu Background</object>
+        <shade>-1118482</shade>
+    </color>
+    <color>
+        <object>Menu Item</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Menu Item Background</object>
+        <shade>-1118482</shade>
+    </color>
+    <color>
+        <object>Table</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Table Background</object>
+        <shade>-1118482</shade>
+    </color>
+    <color>
+        <object>Table Header</object>
+        <shade>-15856114</shade>
+    </color>
+    <color>
+        <object>Table Header Background</object>
+        <shade>-1118482</shade>
+    </color>
+</colorList>
